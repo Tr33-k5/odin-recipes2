@@ -1,0 +1,40 @@
+body {
+   background-color: lightblue;
+   font-family:'Courier New', Courier, monospace
+}
+
+.main {
+   text-align: center;
+}
+
+.title {
+   background-color: whitesmoke;
+   color: lightblue;
+   font-size: 30px;
+}
+
+.menu {
+   font-weight: bold;
+}
+
+#l1 {
+   background-color: whitesmoke;
+   color: lightblue;
+   font-size: 30px;
+}
+
+#l2 {
+   background-color: whitesmoke;
+   color: lightblue;
+   font-size: 30px;
+}
+
+#l3 {
+   background-color: whitesmoke;
+   color: lightblue;
+   font-size: 30px;
+}
+
+#div {
+   text-align: center;
+}
